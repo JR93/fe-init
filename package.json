@@ -1,0 +1,17 @@
+{
+  "name": "fe-init",
+  "version": "0.4.2",
+  "bin": {
+    "fe-init": "bin/fe-init"
+  },
+  "description": "Initialize Project ",
+  "main": "index.js",
+  "author": "gjr_china@163.com",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "shelljs": "^0.8.2",
+    "signale": "^1.2.1",
+    "yargs": "^11.0.0"
+  }
+}
